@@ -12,9 +12,11 @@
 #### Linguagens e Frameworks
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=ts-node&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 
 #### Banco de Dados
