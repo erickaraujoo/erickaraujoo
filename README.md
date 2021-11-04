@@ -1,5 +1,5 @@
 ## Olá! Me chamo [Erick Araujo](https://www.linkedin.com/in/erick-araujo-a51b0014b/) 👋
-![](https://komarev.com/ghpvc/?username=erickaraujoo&color=006bed)
+![](https://komarev.com/ghpvc/?username=erickaraujoo&color=A22899)
 
 ### 💻 &nbsp;Um pouco sobre mim:
 
