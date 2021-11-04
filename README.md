@@ -3,9 +3,10 @@
 
 ### 💻 &nbsp;Um pouco sobre mim:
 
-- 🤵 Atualmente trabalhando na empresa [Primi Tecnologia](https://www.primi.com.br) como Analista Desenvolvedor II
+- 🏢 Atualmente trabalhando na empresa [Primi Tecnologia](https://www.primi.com.br) como Analista Desenvolvedor II
 - 💻 Formado no curso técnico de Desenvolvimento de Sistemas pelo [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas)
-- 📖 Focado na automação de sistemas, na proteção e na autenticidade dos selos de alta segurança e na tomada de decisões fundamentada com base em dados
+- 📖 Aplicado na automação de sistemas, na proteção e na autenticidade dos selos de alta segurança e na tomada de decisões fundamentada com base em dados
+- 🌟 Focado no projeto GNV Seguro, onde seu objetivo é controlar os dados confidenciais dos selos GNV de alta segurança para sua autenticação
 
 ### 🛠 &nbsp;Tech Stack
 
