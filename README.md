@@ -25,8 +25,8 @@
 <br />
 
 <p>
-<a href="https://github.com/washingtonsampaiovieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonsampaiovieira&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=washingtonsampaiovieira&theme=dracula&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/erickaraujoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickaraujoo&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erickaraujoo&theme=dracula&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
