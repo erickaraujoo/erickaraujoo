@@ -3,8 +3,9 @@
 
 ### 💻 &nbsp;Um pouco sobre mim:
 
-- 💻 Formado no técnico de desenvolvimento de sistema pelo [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas)
-- 💪 Desenvolvedor Full stack
+- 🤵 Atualmente trabalhando na empresa [Primi Tecnologia](https://www.primi.com.br) como Analista Desenvolvedor II
+- 💻 Formado no curso técnico de Desenvolvimento de Sistemas pelo [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas)
+- 📖 Focado na automação de sistemas, na proteção e na autenticidade dos selos de alta segurança e na tomada de decisões fundamentada com base em dados
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -14,8 +15,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=ts-node&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 
-#### Database
+#### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sql Server](https://img.shields.io/badge/SqlServer-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
