@@ -3,7 +3,7 @@
 
 ### 💻 &nbsp;Um pouco sobre mim:
 
-- 🏢 Atualmente trabalhando no **[SENAI Jandira](https://jandira.sp.senai.br)** como Software Developer I
+- 🏢 Atualmente trabalhando no **[SENAI Jandira](https://jandira.sp.senai.br)** como Software Developer II
 - 💻 Formado no curso técnico de Desenvolvimento de Sistemas pelo **[Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas)**
 - 📖 Focado em aprofundar meus conhecimentos com DevOps
 - 🌟 Estudando Engenharia de Software na faculdade Pitágoras Ampli
